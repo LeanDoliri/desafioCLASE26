@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Teclado",
+    "price": "672.00",
+    "thumbnail": "http://placeimg.com/640/480",
+    "id": 1
+  },
+  {
+    "title": "Guantes",
+    "price": "522.00",
+    "thumbnail": "http://placeimg.com/640/480",
+    "id": 2
+  },
+  {
+    "title": "Pelota",
+    "price": "988.00",
+    "thumbnail": "http://placeimg.com/640/480",
+    "id": 3
+  },
+  {
+    "title": "Ensalada",
+    "price": "880.00",
+    "thumbnail": "http://placeimg.com/640/480",
+    "id": 4
+  },
+  {
+    "title": "Atún",
+    "price": "704.00",
+    "thumbnail": "http://placeimg.com/640/480",
+    "id": 5
+  }
+]
